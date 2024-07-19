@@ -1,0 +1,8 @@
+Django
+cryptography
+jdatetime
+pillow
+openpyxl
+pandas
+PySocks
+requests
